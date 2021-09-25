@@ -1,4 +1,4 @@
-#FLutterによる観光案アプリ[練習]
+# fLutterによる観光案アプリ[練習]
 
 A new Flutter project.
 
