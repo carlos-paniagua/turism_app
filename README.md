@@ -1,4 +1,4 @@
-# turism_app
+#FLutterによる観光案アプリ[練習]
 
 A new Flutter project.
 
